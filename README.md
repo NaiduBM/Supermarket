@@ -1,1 +1,2 @@
-# project-planner-task-1
+# ProjectPlanners_SupermarketP
+This E-COMMERCE WEBSITE IS CREATED BY USING HTML,CSS AND JAVASCRIPT.
